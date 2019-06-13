@@ -1,5 +1,5 @@
 # Clicky-Game
-## Overview
+## Overview             Link: https://ruiligao.github.io/Clicky-Game/ 
   This is a memory game using React. The application's UI is split into four components.
 ## Technologies Used:
   React.js- UI
